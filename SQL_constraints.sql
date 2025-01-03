@@ -4,6 +4,7 @@ show tables ;
 drop table person;
 
 -- Constraints - NOT NULL , UNIQUE , CHECK , PRIMARY KEY 
+-- PRIMARY KEY = NOT NULL + UNIQUE
 create table person(
  id int not null ,
  name varchar(255) not null , 
