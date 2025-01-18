@@ -2,7 +2,7 @@
 
 Welcome to **SQL Mastery**, your ultimate guide to learning SQL from the ground up! Whether you’re just getting started with SQL or looking to master advanced queries, this repository has something for everyone.
 
----
+--
 
 ## 🚀 About This Repository
 
