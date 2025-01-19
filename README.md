@@ -18,7 +18,7 @@ This repository is a comprehensive collection of SQL concepts, ranging from **ba
 - WHERE, ORDER BY, GROUP BY
 
 ### 📊 Intermediate
-- Joins: INNER, LEFT, RIGHT, FULL
+- Joins : INNER, LEFT, RIGHT, FULL
 - Subqueries and Common Table Expressions (CTEs)
 - Aggregations and Window Functions
 
